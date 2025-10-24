@@ -1,0 +1,23 @@
+# Foundry
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+
+# Environment variables
+.env
+contracts/.env
+
+# Dependencies
+node_modules/
+contracts/lib/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
