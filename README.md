@@ -2,6 +2,18 @@
 
 A decentralized application that allows users to buy coffee with cryptocurrency and enables the owner to withdraw funds.
 
+# What are we making?
+- Minimal HTML/JS site
+- That has the following buttons which map to the solidity smart contract
+    - Connect
+    - Buy Coffee
+        -Button to buy coffee
+        -Call a function on a smart contract
+        -Have a test blockchain that we can call
+    - Get Balance
+    - Withdraw
+
+
 ## 🚀 Features
 
 - Connect with MetaMask wallet
